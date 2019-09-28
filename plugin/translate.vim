@@ -1,4 +1,3 @@
-scriptencoding utf-8
 let s:cmd = expand('<sfile>:h:h').'/bin/'.'translate.py'
 
 function! TranslateState(channel, msg)

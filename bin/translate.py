@@ -5,9 +5,7 @@ import httplib
 import md5
 import urllib
 import random
-import json
 import sys
-import re
 
 appid = '20180313000134817'
 secretKey = '5SJzjaXchmpkXox4L5qX'
